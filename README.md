@@ -31,7 +31,3 @@ What do they sell?  Lots of things!<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scottcwilson&show_icons=true" alt="scottcwilson" /> </p>
 
-<p align="center">
-<a href="https://twitter.com/thatsoftwareguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thatsoftwareguy" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/319741" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="319741" height="20" width="20" /></a>
-</p>
