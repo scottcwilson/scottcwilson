@@ -2,7 +2,8 @@
 <div align="center"><img src="https://www.thatsoftwareguy.com/img/site-graphics/logo.png" alt="That Software Guy" /></div>
 <h3 align="center">I help people sell things online.</h3>
 
-<center>What do they sell?  Lots of things!<br>
+<div align="center">
+What do they sell?  Lots of things!<br>
 🐔 
 🔒
 🌺
@@ -12,7 +13,7 @@
 🥫
 🐟
 🥩
-</center><br>
+</div><br>
 
 -  🛠 I'm currently working on [Zen Cart](https://zen-cart.com) and [the Zen Cart documentation](https://github.com/zencart/documentation). 
 
