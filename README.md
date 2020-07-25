@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott C. Wilson</h1>
 <h3 align="center">I help people sell things online.</h3>
-- 🔭 I’m currently working on [Zen Cart](https://zen-cart.com) and [the Zen Cart documentation](https://github.com/zencart/documentation). 
+
+- 🔭 I'm currently working on [Zen Cart](https://zen-cart.com) and [the Zen Cart documentation](https://github.com/zencart/documentation). 
 
 - 👨‍💻 All of my projects are available at [https://scottcwilson.github.io/](https://scottcwilson.github.io/)
 
