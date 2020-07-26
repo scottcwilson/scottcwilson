@@ -1,4 +1,4 @@
-<div align="center"><font size="2em">My name is Scott C. Wilson</font></div>
+<h1 align="center">My name is Scott C. Wilson</div>
 <h2 align="center">and I am That Software Guy</h2>
 <div align="center"><img src="https://www.thatsoftwareguy.com/img/site-graphics/logo.png" alt="That Software Guy" /></div>
 <hr>
