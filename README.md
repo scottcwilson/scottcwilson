@@ -21,15 +21,16 @@ What do they sell?  Lots of things!<br>
 
 - 💡 I have been releasing new software every month since October, 2006.  
 
-- 🎟 All of my sites are shown at [https://scottcwilson.github.io/](https://scottcwilson.github.io/).
+- 🎟 I show my own sites on [https://scottcwilson.github.io/](https://scottcwilson.github.io/).  You can see 
+   - [my business site](https://www.thatsoftwareguy.com/) 
+   - [my software store](https://www.thatsoftwareguy.com/store/) 
+   - [my blog](https://www.thatsoftwareguy.com/blog/) and 
+   - [my book group site](http://www.tampabaybookgroup.org/). 
 
 - 📫 You can reach me at **scottcwilson@hey.com**
 
 - ⚡ Fun fact: **I like books and coffee.**
 
-<!--
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
--->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scottcwilson&show_icons=true" alt="scottcwilson" /> </p>
 
