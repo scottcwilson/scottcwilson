@@ -26,8 +26,6 @@ What do they sell?  Lots of things!<br><br>
    - [my blog](https://www.thatsoftwareguy.com/blog/) and 
    - [my book group site](http://www.tampabaybookgroup.org/). 
 
-- 📫 You can reach me at **scottcwilson@hey.com**
-
 - ⚡ Fun fact: **I like books and coffee.**
 
 
